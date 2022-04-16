@@ -1,9 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2022/04/16 12:43:54.281,=C:\Users\Lohua\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2022/04/16 12:44:19.391,C:\Projects\delphi\Sistema Clínica\unitPrincipal.dfm=C:\Users\Lohua\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2022/04/16 12:44:19.391,C:\Projects\delphi\Sistema Clínica\unitPrincipal.pas=C:\Users\Lohua\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2022/04/16 12:44:31.166,C:\Projects\delphi\Sistema Clínica\Clinica.dproj=C:\Users\Lohua\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+	<Transactions>
+    <Transaction>2022/04/16 12:43:54.000.281,=C:\Users\Lohua\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/16 12:44:19.000.391,C:\Users\Lohua\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Projects\delphi\Sistema Clínica\unitPrincipal.dfm</Transaction>
+    <Transaction>2022/04/16 12:44:19.000.391,C:\Users\Lohua\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Projects\delphi\Sistema Clínica\unitPrincipal.pas</Transaction>
+    <Transaction>2022/04/16 12:44:31.000.166,C:\Users\Lohua\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Projects\delphi\Sistema Clínica\Clinica.dproj</Transaction>
+    <Transaction>2022/04/16 13:42:48.024,=C:\Projects\delphi\Sistema Clínica\Unit2.pas</Transaction>
+    <Transaction>2022/04/16 13:43:23.594,C:\Projects\delphi\Sistema Clínica\unitCadPacientes.pas=C:\Projects\delphi\Sistema Clínica\Unit2.pas</Transaction>
+    <Transaction>2022/04/16 13:43:23.594,C:\Projects\delphi\Sistema Clínica\unitCadPacientes.dfm=C:\Projects\delphi\Sistema Clínica\Unit2.dfm</Transaction>
+    <Transaction>2022/04/16 13:43:30.806,=C:\Projects\delphi\Sistema Clínica\Unit3.pas</Transaction>
+    <Transaction>2022/04/16 13:44:03.224,C:\Projects\delphi\Sistema Clínica\unitCadAgendamentos.pas=C:\Projects\delphi\Sistema Clínica\Unit3.pas</Transaction>
+    <Transaction>2022/04/16 13:44:03.224,C:\Projects\delphi\Sistema Clínica\unitCadAgendamentos.dfm=C:\Projects\delphi\Sistema Clínica\Unit3.dfm</Transaction>
   </Transactions>
 </BorlandProject>
